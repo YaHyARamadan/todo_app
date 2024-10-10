@@ -22,6 +22,7 @@ class _MainScreenState extends State<MainScreen> {
         backgroundColor: Colors.grey[900],
         appBar: AppBar(
           backgroundColor: Colors.black,
+
           title: Text(
             'Todo App',
             style:
